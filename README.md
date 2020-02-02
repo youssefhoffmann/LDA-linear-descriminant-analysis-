@@ -1,2 +1,3 @@
 # LDA-linear-descriminant-analysis-
+THe LDA is a method used in statistics ,machine learning and pattern recognition to find a linear combination of features that characterizes or separates two or more classes of objects or events. 
 The LDA algorithm starts by finding directions that maximize the separation between classes, then use these directions to predict the class of individuals. These directions, called linear discriminants, are a linear combinations of predictor variables.  LDA assumes that predictors are normally distributed (Gaussian distribution) and that the different classes have class-specific means and equal variance/covariance.
